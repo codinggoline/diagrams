@@ -276,6 +276,9 @@
         <mxCell id="HVNZlJl3Neq12EEZ1xzR-28" value="+ spawnPlayer()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="HVNZlJl3Neq12EEZ1xzR-21" vertex="1">
           <mxGeometry y="164" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="cknB4cvL6h9xe_9O6DVL-25" value="&lt;div&gt;Client: je considère celui ci comme un manager de la connexion au serveur, il gère aussi l&#39;envoi et la reception de donnée, y compris l&#39;affichage de l&#39;interface.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Server: Celui-ci gère les connexions des clients, la logique du jeu et la synchronisation du jeu.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Game: Celui-ci contient la logique du jeu, les niveaux, les joueurs et les collisions.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Player: Lui là, c&#39;est un joueur, voilà, le gar en tenue.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maze: Lui, il representes la labyrinthe... De manière simple, les murs et les points d&#39;apparitions des joueurs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;UDPNetworkManager: Ce gar gère la communication réseau entre le client et le serveur.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1920" width="750" height="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
